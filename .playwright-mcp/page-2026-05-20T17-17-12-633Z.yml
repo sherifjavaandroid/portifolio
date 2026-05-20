@@ -1,0 +1,580 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "AS Ahmed Sherif / Index" [ref=e3] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=e4]: AS
+      - generic [ref=e6]: Ahmed Sherif / Index
+    - navigation [ref=e7]:
+      - link "Work" [ref=e8] [cursor=pointer]:
+        - /url: "#work"
+      - link "Stack" [ref=e9] [cursor=pointer]:
+        - /url: "#stack"
+      - link "Contact" [ref=e10] [cursor=pointer]:
+        - /url: "#contact"
+      - link "GitHub ↗" [ref=e11] [cursor=pointer]:
+        - /url: https://github.com/sherifjavaandroid
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]: Portfolio / vol. 01 / 2020 — 2026
+        - generic [ref=e16]: Cairo · Riyadh · Remote — UTC+3
+      - generic [ref=e17]:
+        - generic [ref=e19]: № 001 — ahmed sherif
+        - heading "Twenty-one apps, shipped. Six countries. One craft." [level=1] [ref=e21]:
+          - generic [ref=e23]: Twenty-one
+          - generic [ref=e25]: apps, shipped.
+          - generic [ref=e27]: Six countries. One craft.
+        - paragraph [ref=e30]: A curated portfolio of 21+ production applications shipped across web and mobile over 5+ years — serving users in Egypt, KSA, Kuwait, Bahrain, the UAE, and the wider MENA region.
+        - generic [ref=e31]:
+          - generic [ref=e33]: Available — Q3 / 2026
+          - generic [ref=e36]:
+            - text: Full Stack Developer
+            - text: Web · iOS · Android
+            - text: Flutter · Laravel · Next.js
+    - region "Technical stack" [ref=e37]:
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - text: PHP
+          - generic [ref=e40]: ✦
+        - generic [ref=e41]:
+          - text: Laravel
+          - generic [ref=e42]: ✦
+        - generic [ref=e43]:
+          - text: Node.js
+          - generic [ref=e44]: ✦
+        - generic [ref=e45]:
+          - text: JavaScript
+          - generic [ref=e46]: ✦
+        - generic [ref=e47]:
+          - text: Vue.js
+          - generic [ref=e48]: ✦
+        - generic [ref=e49]:
+          - text: Next.js
+          - generic [ref=e50]: ✦
+        - generic [ref=e51]:
+          - text: React
+          - generic [ref=e52]: ✦
+        - generic [ref=e53]:
+          - text: Flutter
+          - generic [ref=e54]: ✦
+        - generic [ref=e55]:
+          - text: Dart
+          - generic [ref=e56]: ✦
+        - generic [ref=e57]:
+          - text: MySQL
+          - generic [ref=e58]: ✦
+        - generic [ref=e59]:
+          - text: MariaDB
+          - generic [ref=e60]: ✦
+        - generic [ref=e61]:
+          - text: REST APIs
+          - generic [ref=e62]: ✦
+        - generic [ref=e63]:
+          - text: Tailwind
+          - generic [ref=e64]: ✦
+        - generic [ref=e65]:
+          - text: Sass
+          - generic [ref=e66]: ✦
+        - generic [ref=e67]:
+          - text: Git
+          - generic [ref=e68]: ✦
+        - generic [ref=e69]:
+          - text: Docker
+          - generic [ref=e70]: ✦
+        - generic [ref=e71]:
+          - text: CI/CD
+          - generic [ref=e72]: ✦
+        - generic [ref=e73]:
+          - text: Agile
+          - generic [ref=e74]: ✦
+        - generic [ref=e75]:
+          - text: PHP
+          - generic [ref=e76]: ✦
+        - generic [ref=e77]:
+          - text: Laravel
+          - generic [ref=e78]: ✦
+        - generic [ref=e79]:
+          - text: Node.js
+          - generic [ref=e80]: ✦
+        - generic [ref=e81]:
+          - text: JavaScript
+          - generic [ref=e82]: ✦
+        - generic [ref=e83]:
+          - text: Vue.js
+          - generic [ref=e84]: ✦
+        - generic [ref=e85]:
+          - text: Next.js
+          - generic [ref=e86]: ✦
+        - generic [ref=e87]:
+          - text: React
+          - generic [ref=e88]: ✦
+        - generic [ref=e89]:
+          - text: Flutter
+          - generic [ref=e90]: ✦
+        - generic [ref=e91]:
+          - text: Dart
+          - generic [ref=e92]: ✦
+        - generic [ref=e93]:
+          - text: MySQL
+          - generic [ref=e94]: ✦
+        - generic [ref=e95]:
+          - text: MariaDB
+          - generic [ref=e96]: ✦
+        - generic [ref=e97]:
+          - text: REST APIs
+          - generic [ref=e98]: ✦
+        - generic [ref=e99]:
+          - text: Tailwind
+          - generic [ref=e100]: ✦
+        - generic [ref=e101]:
+          - text: Sass
+          - generic [ref=e102]: ✦
+        - generic [ref=e103]:
+          - text: Git
+          - generic [ref=e104]: ✦
+        - generic [ref=e105]:
+          - text: Docker
+          - generic [ref=e106]: ✦
+        - generic [ref=e107]:
+          - text: CI/CD
+          - generic [ref=e108]: ✦
+        - generic [ref=e109]:
+          - text: Agile
+          - generic [ref=e110]: ✦
+    - generic [ref=e111]:
+      - generic [ref=e113]: Receipts / by the numbers
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e116]: 21+
+          - generic [ref=e117]: Production apps
+        - generic [ref=e118]:
+          - generic [ref=e119]: "06"
+          - generic [ref=e120]: Countries served
+        - generic [ref=e121]:
+          - generic [ref=e122]: 200K+
+          - generic [ref=e123]: Combined downloads
+        - generic [ref=e124]:
+          - generic [ref=e125]: 6.5K
+          - generic [ref=e126]: Udemy students
+        - generic [ref=e127]:
+          - generic [ref=e128]: 10.3K
+          - generic [ref=e129]: YouTube subs
+        - generic [ref=e130]:
+          - generic [ref=e131]: 460K+
+          - generic [ref=e132]: Video views
+        - generic [ref=e133]:
+          - generic [ref=e134]: 05+
+          - generic [ref=e135]: Years shipping
+    - generic [ref=e137]:
+      - generic [ref=e140]: — § Selected work
+      - blockquote [ref=e143]: “Every entry below is live in production — not a deck slide, not a side experiment. Five categories, twenty-one apps, one operator who has carried each one from first commit to App Store listing.”
+    - generic [ref=e144]:
+      - complementary [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]: — Chapter 01
+          - heading "On-Demand & Home Services" [level=2] [ref=e148]
+          - paragraph [ref=e149]: Field operations, dispatch, marketplaces.
+          - generic [ref=e150]:
+            - generic [ref=e151]: ●
+            - text: 10 entries
+      - generic [ref=e152]:
+        - article [ref=e154]:
+          - generic [ref=e155]: "01"
+          - generic [ref=e156]:
+            - heading "Ma3akمعاك" [level=3] [ref=e157]
+            - generic [ref=e158]: Roadside Assistance Platform/Egypt
+            - generic [ref=e159]: 100K+ downloads
+          - paragraph [ref=e160]: "Real-time roadside service platform: tow trucks, battery jumpstart, fuel delivery, and substitute vehicles with geolocation-based dispatch."
+          - generic [ref=e161]:
+            - link "Google Play" [ref=e162] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.m3ak.m3ak&hl=ar
+              - generic [ref=e163]: ▶
+              - generic [ref=e164]: Google Play
+            - generic [ref=e165]: ↗
+        - article [ref=e167]:
+          - generic [ref=e168]: "02"
+          - generic [ref=e169]:
+            - heading "FilKhedmaفي الخدمة" [level=3] [ref=e170]
+            - generic [ref=e171]: Home Services Platform/Egypt
+          - paragraph [ref=e172]: On-demand home services connecting customers with skilled technicians for plumbing, electrical, carpentry, AC, and more.
+          - generic [ref=e173]:
+            - link "Google Play" [ref=e174] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.filkhedma.customer
+              - generic [ref=e175]: ▶
+              - generic [ref=e176]: Google Play
+            - generic [ref=e177]: ↗
+        - article [ref=e179]:
+          - generic [ref=e180]: "03"
+          - generic [ref=e181]:
+            - heading "B8akبضائعك" [level=3] [ref=e182]
+            - generic [ref=e183]: Service Marketplace/KSA
+          - paragraph [ref=e184]: Service marketplace connecting customers with verified providers across home maintenance, cleaning, and repair categories.
+          - generic [ref=e185]:
+            - link "Google Play" [ref=e186] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.b8ak.b8akapp
+              - generic [ref=e187]: ▶
+              - generic [ref=e188]: Google Play
+            - generic [ref=e189]: ↗
+        - article [ref=e191]:
+          - generic [ref=e192]: "04"
+          - generic [ref=e193]:
+            - heading "Fanniفني" [level=3] [ref=e194]
+            - generic [ref=e195]: Technical Services/KSA
+          - paragraph [ref=e196]: Platform for booking technical and home maintenance specialists with in-app requests, scheduling, and payment.
+          - generic [ref=e197]:
+            - link "Google Play" [ref=e198] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.cloudtech.fanniapp
+              - generic [ref=e199]: ▶
+              - generic [ref=e200]: Google Play
+            - generic [ref=e201]: ↗
+        - article [ref=e203]:
+          - generic [ref=e204]: "05"
+          - generic [ref=e205]:
+            - heading "Eram Home Services" [level=3] [ref=e206]
+            - generic [ref=e207]: Home Services/KSA
+          - paragraph [ref=e208]: Home services application by Eram Group offering cleaning, maintenance, and repair across Saudi Arabia.
+          - generic [ref=e209]:
+            - link "Google Play" [ref=e210] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.eramgroupsa.home_service
+              - generic [ref=e211]: ▶
+              - generic [ref=e212]: Google Play
+            - generic [ref=e213]: ↗
+        - article [ref=e215]:
+          - generic [ref=e216]: "06"
+          - generic [ref=e217]:
+            - heading "Tasktyتاسكتي" [level=3] [ref=e218]
+            - generic [ref=e219]: Task & Service App
+          - paragraph [ref=e220]: On-demand task and service application connecting customers with providers for various daily needs.
+          - generic [ref=e221]:
+            - link "Google Play" [ref=e222] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.tasktyapp.taskty
+              - generic [ref=e223]: ▶
+              - generic [ref=e224]: Google Play
+            - generic [ref=e225]: ↗
+        - article [ref=e227]:
+          - generic [ref=e228]: "07"
+          - generic [ref=e229]:
+            - heading "Maharahمهارة" [level=3] [ref=e230]
+            - generic [ref=e231]: Skills & Services Platform
+          - paragraph [ref=e232]: Platform matching skilled professionals with customers for handyman, cleaning, and personal-care services.
+          - generic [ref=e233]:
+            - link "Google Play" [ref=e234] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.maharah.maharahApp
+              - generic [ref=e235]: ▶
+              - generic [ref=e236]: Google Play
+            - generic [ref=e237]: ↗
+        - article [ref=e239]:
+          - generic [ref=e240]: "08"
+          - generic [ref=e241]:
+            - heading "HomeRun" [level=3] [ref=e242]
+            - generic [ref=e243]: Customer Service App
+          - paragraph [ref=e244]: Customer-facing application for booking on-demand services with real-time tracking and order management.
+          - generic [ref=e245]:
+            - link "Google Play" [ref=e246] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.homerun.customer
+              - generic [ref=e247]: ▶
+              - generic [ref=e248]: Google Play
+            - generic [ref=e249]: ↗
+        - article [ref=e251]:
+          - generic [ref=e252]: "09"
+          - generic [ref=e253]:
+            - heading "GARO" [level=3] [ref=e254]
+            - generic [ref=e255]: Service Marketplace/KSA
+          - paragraph [ref=e256]: Service marketplace for the Saudi market with provider matching, booking, and payment integration.
+          - generic [ref=e257]:
+            - link "Google Play" [ref=e258] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.garo.ksa
+              - generic [ref=e259]: ▶
+              - generic [ref=e260]: Google Play
+            - generic [ref=e261]: ↗
+        - article [ref=e263]:
+          - generic [ref=e264]: "10"
+          - generic [ref=e265]:
+            - heading "Ghaseelغسيل" [level=3] [ref=e266]
+            - generic [ref=e267]: Car Wash Platform/KSA · KW · BH
+            - generic [ref=e268]: 200+ providers
+          - paragraph [ref=e269]: Multi-country car-wash booking with secure online payments (KNet, Mada, Visa, Apple Pay) and 200+ verified providers.
+          - generic [ref=e270]:
+            - link "Website" [ref=e271] [cursor=pointer]:
+              - /url: https://www.ghaseel.com/
+              - generic [ref=e272]: ↗
+              - generic [ref=e273]: Website
+            - link "Google Play" [ref=e274] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.ghaseel.ghaseel2
+              - generic [ref=e275]: ▶
+              - generic [ref=e276]: Google Play
+            - link "App Store" [ref=e277] [cursor=pointer]:
+              - /url: https://apps.apple.com/kw/app/ghaseel-car-wash-%D8%BA%D8%B3%D9%8A%D9%84-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA/id1052534178
+              - generic [ref=e278]: App Store
+            - generic [ref=e279]: ↗
+    - generic [ref=e281]:
+      - complementary [ref=e282]:
+        - generic [ref=e283]:
+          - generic [ref=e284]: — Chapter 02
+          - heading "Real Estate & Marketplaces" [level=2] [ref=e285]
+          - paragraph [ref=e286]: Classifieds, brokerage, listings at scale.
+          - generic [ref=e287]:
+            - generic [ref=e288]: ●
+            - text: 4 entries
+      - generic [ref=e289]:
+        - article [ref=e291]:
+          - generic [ref=e292]: "11"
+          - generic [ref=e293]:
+            - heading "Mourjanمرجان" [level=3] [ref=e294]
+            - generic [ref=e295]: MENA Classifieds Marketplace
+          - paragraph [ref=e296]: One of the largest classifieds marketplaces in the Middle East, serving Egypt and the wider MENA region with multi-country localization.
+          - generic [ref=e297]:
+            - link "Website" [ref=e298] [cursor=pointer]:
+              - /url: https://www.mourjan.com/eg/
+              - generic [ref=e299]: ↗
+              - generic [ref=e300]: Website
+            - generic [ref=e301]: ↗
+        - article [ref=e303]:
+          - generic [ref=e304]: "12"
+          - generic [ref=e305]:
+            - heading "Wasataالوساطة العقارية" [level=3] [ref=e306]
+            - generic [ref=e307]: Real Estate Brokerage/KSA
+          - paragraph [ref=e308]: Real estate marketplace for the Saudi market with listings, advanced filters, agent dashboards, and integrated messaging.
+          - generic [ref=e309]:
+            - link "Google Play" [ref=e310] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.wasata.wasata_user&hl=ar
+              - generic [ref=e311]: ▶
+              - generic [ref=e312]: Google Play
+            - link "App Store" [ref=e313] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9/id1588240476
+              - generic [ref=e314]: App Store
+            - generic [ref=e315]: ↗
+        - article [ref=e317]:
+          - generic [ref=e318]: "13"
+          - generic [ref=e319]:
+            - heading "Aqar Ya Masrعقار يا مصر" [level=3] [ref=e320]
+            - generic [ref=e321]: Real Estate Marketplace/Egypt
+          - paragraph [ref=e322]: Egyptian real estate platform with listings, search, and lead generation for both agents and individual buyers/sellers.
+          - generic [ref=e323]:
+            - link "Google Play" [ref=e324] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=aqar.ya.masr&hl=ar
+              - generic [ref=e325]: ▶
+              - generic [ref=e326]: Google Play
+            - link "App Store" [ref=e327] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-aqar-ya-masr/id1572629063
+              - generic [ref=e328]: App Store
+            - generic [ref=e329]: ↗
+        - article [ref=e331]:
+          - generic [ref=e332]: "14"
+          - generic [ref=e333]:
+            - heading "LinkOut" [level=3] [ref=e334]
+            - generic [ref=e335]: Networking Platform
+          - paragraph [ref=e336]: Networking and professional connections platform — Flutter frontend with a Laravel REST backend.
+          - generic [ref=e337]:
+            - link "Google Play" [ref=e338] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.xapps.linkout
+              - generic [ref=e339]: ▶
+              - generic [ref=e340]: Google Play
+            - generic [ref=e341]: ↗
+    - generic [ref=e343]:
+      - complementary [ref=e344]:
+        - generic [ref=e345]:
+          - generic [ref=e346]: — Chapter 03
+          - heading "Enterprise, Fintech & Specialized" [level=2] [ref=e347]
+          - paragraph [ref=e348]: Secure, regulated, telecom & commerce.
+          - generic [ref=e349]:
+            - generic [ref=e350]: ●
+            - text: 5 entries
+      - generic [ref=e351]:
+        - article [ref=e353]:
+          - generic [ref=e354]: "15"
+          - generic [ref=e355]:
+            - heading "FRA (LuminSoft)" [level=3] [ref=e356]
+            - generic [ref=e357]: Enterprise Mobile Solution
+          - paragraph [ref=e358]: Enterprise-grade mobile application with secure authentication, encrypted data handling, and backend system integration.
+          - generic [ref=e359]:
+            - link "Google Play" [ref=e360] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.luminsoft.fra
+              - generic [ref=e361]: ▶
+              - generic [ref=e362]: Google Play
+            - generic [ref=e363]: ↗
+        - article [ref=e365]:
+          - generic [ref=e366]: "16"
+          - generic [ref=e367]:
+            - heading "Coupon EG" [level=3] [ref=e368]
+            - generic [ref=e369]: E-commerce & Shopping/Egypt
+            - generic [ref=e370]: 5K+ downloads · 4.6★
+          - paragraph [ref=e371]: E-commerce platform for electronics shopping in Egypt by Tabex Series. Product catalog, ordering flow, and delivery tracking.
+          - generic [ref=e372]:
+            - link "Website" [ref=e373] [cursor=pointer]:
+              - /url: https://coupon-eg.com
+              - generic [ref=e374]: ↗
+              - generic [ref=e375]: Website
+            - link "Google Play" [ref=e376] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.tabex.series.coupon
+              - generic [ref=e377]: ▶
+              - generic [ref=e378]: Google Play
+            - generic [ref=e379]: ↗
+        - article [ref=e381]:
+          - generic [ref=e382]: "17"
+          - generic [ref=e383]:
+            - heading "MENASIM" [level=3] [ref=e384]
+            - generic [ref=e385]: eSIM Travel Telecom/Global
+            - generic [ref=e386]: 150+ countries
+          - paragraph [ref=e387]: eSIM marketplace allowing travelers to purchase and activate data plans for 150+ countries via telecom provider API integration.
+          - generic [ref=e388]:
+            - link "Google Play" [ref=e389] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.mena.esim.travel&hl=ar
+              - generic [ref=e390]: ▶
+              - generic [ref=e391]: Google Play
+            - link "App Store" [ref=e392] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/menasim-esim-travel-internet/id6462143799
+              - generic [ref=e393]: App Store
+            - generic [ref=e394]: ↗
+        - article [ref=e396]:
+          - generic [ref=e397]: "18"
+          - generic [ref=e398]:
+            - heading "Khazynخزين" [level=3] [ref=e399]
+            - generic [ref=e400]: Inventory Management
+          - paragraph [ref=e401]: Full-stack inventory system with a Vue.js admin dashboard and Flutter mobile clients. Real-time stock tracking and barcode scanning.
+          - generic [ref=e402]:
+            - link "Google Play" [ref=e403] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.khazyn&hl=ar
+              - generic [ref=e404]: ▶
+              - generic [ref=e405]: Google Play
+            - link "App Store" [ref=e406] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/khazyn-%D8%AE%D8%B2%D9%8A%D9%86/id6462788369
+              - generic [ref=e407]: App Store
+            - generic [ref=e408]: ↗
+        - article [ref=e410]:
+          - generic [ref=e411]: "19"
+          - generic [ref=e412]:
+            - heading "Directدايركت" [level=3] [ref=e413]
+            - generic [ref=e414]: Travel & Booking/Bahrain
+          - paragraph [ref=e415]: Travel booking platform for the Bahrain market with flights, hotels, and complete itinerary management.
+          - generic [ref=e416]:
+            - link "Google Play" [ref=e417] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.direct.travel&hl=en_US
+              - generic [ref=e418]: ▶
+              - generic [ref=e419]: Google Play
+            - link "App Store" [ref=e420] [cursor=pointer]:
+              - /url: https://apps.apple.com/bh/app/direct-%D8%AF%D8%A7%D9%8A%D8%B1%D9%83%D8%AA/id1270140475
+              - generic [ref=e421]: App Store
+            - generic [ref=e422]: ↗
+    - generic [ref=e424]:
+      - complementary [ref=e425]:
+        - generic [ref=e426]:
+          - generic [ref=e427]: — Chapter 04
+          - heading "Education, Healthcare & Hospitality" [level=2] [ref=e428]
+          - paragraph [ref=e429]: Conferences, grading, F&B ordering.
+          - generic [ref=e430]:
+            - generic [ref=e431]: ●
+            - text: 3 entries
+      - generic [ref=e432]:
+        - article [ref=e434]:
+          - generic [ref=e435]: "20"
+          - generic [ref=e436]:
+            - heading "AutoMarkأوتومارك" [level=3] [ref=e437]
+            - generic [ref=e438]: Automated Grading System/KSA
+          - paragraph [ref=e439]: Mobile platform for automated exam grading using OCR and image processing. Used by educational institutions across Saudi Arabia.
+          - generic [ref=e440]:
+            - link "Google Play" [ref=e441] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.secItDevelopers.auto_mark_app&hl=ar
+              - generic [ref=e442]: ▶
+              - generic [ref=e443]: Google Play
+            - link "App Store" [ref=e444] [cursor=pointer]:
+              - /url: https://apps.apple.com/ae/app/automark-%D8%A7%D9%88%D8%AA%D9%88%D9%85%D8%A7%D8%B1%D9%83/id6473959588
+              - generic [ref=e445]: App Store
+            - generic [ref=e446]: ↗
+        - article [ref=e448]:
+          - generic [ref=e449]: "21"
+          - generic [ref=e450]:
+            - heading "Saudi Ophthalmology" [level=3] [ref=e451]
+            - generic [ref=e452]: Medical Conference/KSA
+          - paragraph [ref=e453]: Conference application for the Saudi Ophthalmology event with schedules, speaker profiles, and session management.
+          - generic [ref=e454]:
+            - link "Google Play" [ref=e455] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.secit.ahmednasr.so2023
+              - generic [ref=e456]: ▶
+              - generic [ref=e457]: Google Play
+            - link "App Store" [ref=e458] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/saudi-ophthalmollogy/id6469462310?l=ar
+              - generic [ref=e459]: App Store
+            - generic [ref=e460]: ↗
+        - article [ref=e462]:
+          - generic [ref=e463]: "22"
+          - generic [ref=e464]:
+            - heading "Khaymat Zamanخيمة زمان" [level=3] [ref=e465]
+            - generic [ref=e466]: Restaurant & Delivery
+          - paragraph [ref=e467]: Restaurant ordering and delivery application with menu management, order tracking, and integrated payment.
+          - generic [ref=e468]:
+            - link "Google Play" [ref=e469] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=khaymat.abo.ragaa.zaman.khaymat
+              - generic [ref=e470]: ▶
+              - generic [ref=e471]: Google Play
+            - link "App Store" [ref=e472] [cursor=pointer]:
+              - /url: https://apps.apple.com/ae/app/khaymat-zaman-%D8%AE%D9%8A%D9%85%D8%A9-%D8%B2%D9%85%D8%A7%D9%86/id1512642490
+              - generic [ref=e473]: App Store
+            - generic [ref=e474]: ↗
+    - generic [ref=e476]:
+      - complementary [ref=e477]:
+        - generic [ref=e478]:
+          - generic [ref=e479]: — Chapter 05
+          - heading "Teaching & Content Creation" [level=2] [ref=e480]
+          - paragraph [ref=e481]: Courses, channels, technical writing.
+          - generic [ref=e482]:
+            - generic [ref=e483]: ●
+            - text: 3 entries
+      - generic [ref=e484]:
+        - article [ref=e486]:
+          - generic [ref=e487]: "23"
+          - generic [ref=e488]:
+            - heading "Flutter Advanced Course" [level=3] [ref=e489]
+            - generic [ref=e490]: Architectures in Flutter — Udemy Instructor
+            - generic [ref=e491]: 6,581 students · 4.6★ (195 reviews)
+          - paragraph [ref=e492]: Advanced Flutter architectures course in Arabic covering clean architecture, state management, and production-grade patterns.
+          - generic [ref=e493]:
+            - link "View on Udemy" [ref=e494] [cursor=pointer]:
+              - /url: https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/
+              - generic [ref=e495]: ◉
+              - generic [ref=e496]: View on Udemy
+            - generic [ref=e497]: ↗
+        - article [ref=e499]:
+          - generic [ref=e500]: "24"
+          - generic [ref=e501]:
+            - heading "CODELIX" [level=3] [ref=e502]
+            - generic [ref=e503]: YouTube Channel — Founder & Creator
+            - generic [ref=e504]: 10.3K subscribers · 133 videos · 460K+ views
+          - paragraph [ref=e505]: Educational YouTube channel focused on advanced Flutter, software architecture, and best practices.
+          - generic [ref=e506]:
+            - link "Visit Channel" [ref=e507] [cursor=pointer]:
+              - /url: https://www.youtube.com/@Codelix-v4t
+              - generic [ref=e508]: ▶
+              - generic [ref=e509]: Visit Channel
+            - generic [ref=e510]: ↗
+        - article [ref=e512]:
+          - generic [ref=e513]: "25"
+          - generic [ref=e514]:
+            - heading "Tech Page" [level=3] [ref=e515]
+            - generic [ref=e516]: Facebook Content Creator
+            - generic [ref=e517]: 4K+ views per post
+          - paragraph [ref=e518]: Regular technical posts and code reviews reaching a developer audience across the MENA region.
+          - generic [ref=e519]:
+            - link "Facebook Page" [ref=e520] [cursor=pointer]:
+              - /url: https://www.facebook.com/devsherif/
+              - generic [ref=e521]: f
+              - generic [ref=e522]: Facebook Page
+            - generic [ref=e523]: ↗
+    - generic [ref=e525]:
+      - generic [ref=e527]: — Colophon / Get in touch
+      - generic [ref=e528]:
+        - paragraph [ref=e531]: Let's build the next twenty-two.
+        - generic [ref=e532]:
+          - link "engahmedsherif39@gmail.com" [ref=e533] [cursor=pointer]:
+            - /url: mailto:engahmedsherif39@gmail.com
+          - link "+20 102 358 1657" [ref=e534] [cursor=pointer]:
+            - /url: tel:+201023581657
+          - link "GitHub ↗" [ref=e535] [cursor=pointer]:
+            - /url: https://github.com/sherifjavaandroid
+          - link "YouTube · CODELIX ↗" [ref=e536] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Codelix-v4t
+          - link "Udemy Course ↗" [ref=e537] [cursor=pointer]:
+            - /url: https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/
+      - generic [ref=e538]:
+        - generic [ref=e539]: © 2020—2026 / Ahmed Sherif / All rights reserved
+        - generic [ref=e541]: Set in Fraunces & Hanken Grotesk

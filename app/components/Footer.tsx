@@ -1,25 +1,32 @@
+"use client";
+
+import { ui } from "@/lib/i18n";
 import { profile } from "@/lib/projects";
+import { useI18n } from "../providers";
 import Reveal from "./Reveal";
 
 export default function Footer() {
+  const { lang } = useI18n();
+  const f = ui.footer;
+
   return (
     <footer
       id="contact"
       className="relative px-6 md:px-10 pt-24 md:pt-36 pb-12 border-t border-line"
     >
       <Reveal>
-        <div className="eyebrow mb-10">— Colophon / Get in touch</div>
+        <div className="eyebrow mb-10">— {f.section[lang]}</div>
       </Reveal>
 
       <div className="grid grid-cols-12 gap-y-12 gap-x-6 items-end">
         <div className="col-span-12 md:col-span-8">
           <Reveal>
-            <p className="font-display text-cream text-[12vw] md:text-[7.5vw] leading-[0.92] tracking-[-0.03em]">
-              Let&apos;s build the{" "}
+            <p className="font-display text-cream text-[11vw] md:text-[7vw] leading-[0.95] tracking-[-0.03em]">
+              {f.cta1[lang]}{" "}
               <span className="font-display-italic text-rust">
-                next twenty
+                {f.cta2[lang]}
               </span>
-              .
+              {f.cta3[lang]}
             </p>
           </Reveal>
         </div>
@@ -47,7 +54,7 @@ export default function Footer() {
             rel="noreferrer"
             className="u-link"
           >
-            YouTube · CODELIX ↗
+            {f.youtube[lang]}
           </a>
           <a
             href={profile.udemy}
@@ -55,17 +62,15 @@ export default function Footer() {
             rel="noreferrer"
             className="u-link"
           >
-            Udemy Course ↗
+            {f.udemy[lang]}
           </a>
         </div>
       </div>
 
       <div className="mt-24 pt-6 border-t border-line flex flex-wrap items-center justify-between gap-4 font-mono text-[10px] uppercase tracking-[0.22em] text-mute">
-        <div>
-          © 2020—2026 / {profile.name} / All rights reserved
-        </div>
+        <div>{f.rights[lang]}</div>
         <div className="flex items-center gap-3">
-          <span className="cursor">Set in Fraunces &amp; Hanken Grotesk</span>
+          <span className="cursor">{f.set[lang]}</span>
         </div>
       </div>
     </footer>

@@ -1,0 +1,595 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "أ. ش أحمد شريف / فهرس" [ref=e3] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=e4]: أ. ش
+      - generic [ref=e6]: أحمد شريف / فهرس
+    - navigation [ref=e7]:
+      - link "الأعمال" [ref=e8] [cursor=pointer]:
+        - /url: "#work"
+      - link "التقنيات" [ref=e9] [cursor=pointer]:
+        - /url: "#stack"
+      - link "تواصل" [ref=e10] [cursor=pointer]:
+        - /url: "#contact"
+      - link "جيت‑هَب ↗" [ref=e11] [cursor=pointer]:
+        - /url: https://github.com/sherifjavaandroid
+      - generic [ref=e12]:
+        - button "Switch to English" [ref=e13]: EN
+        - button "وضع فاتح" [ref=e14]: ○
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: مجموعة الأعمال / المجلد ٠١ / ٢٠٢٠ — ٢٠٢٦
+        - generic [ref=e19]: القاهرة · الرياض · عن بُعد — UTC+3
+      - generic [ref=e20]:
+        - generic [ref=e22]: رقم ٠٠١ — أحمد شريف
+        - heading "تسعة عشر تطبيقاً، تم إطلاقها. خمس دول. حرفةٌ واحدة." [level=1] [ref=e24]:
+          - generic [ref=e26]: تسعة عشر
+          - generic [ref=e28]: تطبيقاً، تم إطلاقها.
+          - generic [ref=e30]: خمس دول. حرفةٌ واحدة.
+        - paragraph [ref=e33]: مجموعة مختارة من ١٩ تطبيقاً في الإنتاج، تم إطلاقها على الويب والموبايل خلال أكثر من ٥ سنوات — تخدم مستخدمين في مصر والسعودية والبحرين والإمارات وعموم منطقة الشرق الأوسط وشمال أفريقيا. مرتّبة أدناه بحسب إحصائيات تنزيلات جوجل بلاي الحيّة.
+        - generic [ref=e34]:
+          - generic [ref=e36]: متاح للعمل — الربع الثالث ٢٠٢٦
+          - generic [ref=e39]:
+            - text: مطوّر كامل المكدس
+            - text: ويب · iOS · أندرويد
+            - text: Flutter · Laravel · Next.js
+    - region "المكدس التقني" [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - text: PHP
+          - generic [ref=e43]: ✦
+        - generic [ref=e44]:
+          - text: Laravel
+          - generic [ref=e45]: ✦
+        - generic [ref=e46]:
+          - text: Node.js
+          - generic [ref=e47]: ✦
+        - generic [ref=e48]:
+          - text: JavaScript
+          - generic [ref=e49]: ✦
+        - generic [ref=e50]:
+          - text: Vue.js
+          - generic [ref=e51]: ✦
+        - generic [ref=e52]:
+          - text: Next.js
+          - generic [ref=e53]: ✦
+        - generic [ref=e54]:
+          - text: React
+          - generic [ref=e55]: ✦
+        - generic [ref=e56]:
+          - text: Flutter
+          - generic [ref=e57]: ✦
+        - generic [ref=e58]:
+          - text: Dart
+          - generic [ref=e59]: ✦
+        - generic [ref=e60]:
+          - text: MySQL
+          - generic [ref=e61]: ✦
+        - generic [ref=e62]:
+          - text: MariaDB
+          - generic [ref=e63]: ✦
+        - generic [ref=e64]:
+          - text: REST APIs
+          - generic [ref=e65]: ✦
+        - generic [ref=e66]:
+          - text: Tailwind
+          - generic [ref=e67]: ✦
+        - generic [ref=e68]:
+          - text: Sass
+          - generic [ref=e69]: ✦
+        - generic [ref=e70]:
+          - text: Git
+          - generic [ref=e71]: ✦
+        - generic [ref=e72]:
+          - text: Docker
+          - generic [ref=e73]: ✦
+        - generic [ref=e74]:
+          - text: CI/CD
+          - generic [ref=e75]: ✦
+        - generic [ref=e76]:
+          - text: Agile
+          - generic [ref=e77]: ✦
+        - generic [ref=e78]:
+          - text: PHP
+          - generic [ref=e79]: ✦
+        - generic [ref=e80]:
+          - text: Laravel
+          - generic [ref=e81]: ✦
+        - generic [ref=e82]:
+          - text: Node.js
+          - generic [ref=e83]: ✦
+        - generic [ref=e84]:
+          - text: JavaScript
+          - generic [ref=e85]: ✦
+        - generic [ref=e86]:
+          - text: Vue.js
+          - generic [ref=e87]: ✦
+        - generic [ref=e88]:
+          - text: Next.js
+          - generic [ref=e89]: ✦
+        - generic [ref=e90]:
+          - text: React
+          - generic [ref=e91]: ✦
+        - generic [ref=e92]:
+          - text: Flutter
+          - generic [ref=e93]: ✦
+        - generic [ref=e94]:
+          - text: Dart
+          - generic [ref=e95]: ✦
+        - generic [ref=e96]:
+          - text: MySQL
+          - generic [ref=e97]: ✦
+        - generic [ref=e98]:
+          - text: MariaDB
+          - generic [ref=e99]: ✦
+        - generic [ref=e100]:
+          - text: REST APIs
+          - generic [ref=e101]: ✦
+        - generic [ref=e102]:
+          - text: Tailwind
+          - generic [ref=e103]: ✦
+        - generic [ref=e104]:
+          - text: Sass
+          - generic [ref=e105]: ✦
+        - generic [ref=e106]:
+          - text: Git
+          - generic [ref=e107]: ✦
+        - generic [ref=e108]:
+          - text: Docker
+          - generic [ref=e109]: ✦
+        - generic [ref=e110]:
+          - text: CI/CD
+          - generic [ref=e111]: ✦
+        - generic [ref=e112]:
+          - text: Agile
+          - generic [ref=e113]: ✦
+    - generic [ref=e114]:
+      - generic [ref=e116]: المؤشرات / بالأرقام
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]: "19"
+          - generic [ref=e120]: تطبيقات في الإنتاج
+        - generic [ref=e121]:
+          - generic [ref=e122]: "05"
+          - generic [ref=e123]: دول تخدم
+        - generic [ref=e124]:
+          - generic [ref=e125]: 1.4M+
+          - generic [ref=e126]: إجمالي التنزيلات
+        - generic [ref=e127]:
+          - generic [ref=e128]: 500K+
+          - generic [ref=e129]: أعلى تطبيق
+        - generic [ref=e130]:
+          - generic [ref=e131]: 6.5K
+          - generic [ref=e132]: طلاب يوديمي
+        - generic [ref=e133]:
+          - generic [ref=e134]: 10.3K
+          - generic [ref=e135]: مشتركو يوتيوب
+        - generic [ref=e136]:
+          - generic [ref=e137]: 05+
+          - generic [ref=e138]: سنوات في الميدان
+    - generic [ref=e140]:
+      - generic [ref=e143]: — § أعمال مختارة
+      - blockquote [ref=e146]: “كل مدخل تجده أدناه تطبيقٌ حيٌّ في الإنتاج — ليس شريحة عرض، ولا تجربة جانبية. قائمةٌ واحدة، تسعة عشر تطبيقاً، مرتّبة بحسب إحصائيات تنزيلات بلاي ستور الحيّة.”
+    - generic [ref=e147]:
+      - complementary [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]: — الفصل 01
+          - heading "التطبيقات — مرتّبة بحسب التنزيلات" [level=2] [ref=e151]
+          - paragraph [ref=e152]: إحصائيات تنزيلات جوجل بلاي الحيّة، تنازلياً.
+          - generic [ref=e153]:
+            - generic [ref=e154]: ●
+            - text: 19 مدخلات
+      - generic [ref=e155]:
+        - article [ref=e157]:
+          - generic [ref=e158]: "01"
+          - generic [ref=e159]:
+            - heading "دايركتDirect" [level=3] [ref=e160]
+            - generic [ref=e161]: سفر وحجوزات/البحرين
+          - paragraph [ref=e162]: منصّة حجوزات سفر للسوق البحريني — تذاكر طيران، فنادق، وإدارة كاملة لخطّة الرحلة.
+          - generic [ref=e163]:
+            - generic [ref=e164]: 500K+
+            - generic [ref=e165]: تنزيل
+          - generic [ref=e166]:
+            - link "جوجل بلاي" [ref=e167] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.direct.travel&hl=en_US
+              - generic [ref=e168]: ▶
+              - generic [ref=e169]: جوجل بلاي
+            - link "آب ستور" [ref=e170] [cursor=pointer]:
+              - /url: https://apps.apple.com/bh/app/direct-%D8%AF%D8%A7%D9%8A%D8%B1%D9%83%D8%AA/id1270140475
+              - generic [ref=e171]: آب ستور
+            - generic [ref=e172]: ↗
+        - article [ref=e174]:
+          - generic [ref=e175]: "02"
+          - generic [ref=e176]:
+            - heading "معاكMa3ak" [level=3] [ref=e177]
+            - generic [ref=e178]: منصّة مساعدة الطريق/مصر
+          - paragraph [ref=e179]: "منصّة خدمات طريق فوريّة: ونش، شحن بطّاريات، توصيل وقود، وسيّارة بديلة، مع توزيع المهام بناءً على الموقع الجغرافي."
+          - generic [ref=e180]:
+            - generic [ref=e181]: 100K+
+            - generic [ref=e182]: تنزيل
+          - generic [ref=e183]:
+            - link "جوجل بلاي" [ref=e184] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.m3ak.m3ak&hl=ar
+              - generic [ref=e185]: ▶
+              - generic [ref=e186]: جوجل بلاي
+            - link "آب ستور" [ref=e187] [cursor=pointer]:
+              - /url: https://apps.apple.com/ma/app/ma3ak-%D9%85%D8%B9%D8%A7%D9%83/id6758354892
+              - generic [ref=e188]: آب ستور
+            - generic [ref=e189]: ↗
+        - article [ref=e191]:
+          - generic [ref=e192]: "03"
+          - generic [ref=e193]:
+            - heading "في الخدمةFilKhedma" [level=3] [ref=e194]
+            - generic [ref=e195]: منصّة خدمات منزليّة/مصر
+          - paragraph [ref=e196]: خدمات منزليّة عند الطلب، تربط العملاء بفنّيين محترفين في السباكة والكهرباء والنجارة والتكييف وغيرها.
+          - generic [ref=e197]:
+            - generic [ref=e198]: 100K+
+            - generic [ref=e199]: تنزيل
+          - generic [ref=e200]:
+            - link "جوجل بلاي" [ref=e201] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.filkhedma.customer
+              - generic [ref=e202]: ▶
+              - generic [ref=e203]: جوجل بلاي
+            - link "آب ستور" [ref=e204] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/filkhedma-home-services/id1473742608?l=ar
+              - generic [ref=e205]: آب ستور
+            - generic [ref=e206]: ↗
+        - article [ref=e208]:
+          - generic [ref=e209]: "04"
+          - generic [ref=e210]:
+            - heading "بضائعكB8ak" [level=3] [ref=e211]
+            - generic [ref=e212]: سوق للخدمات/السعودية
+          - paragraph [ref=e213]: سوق خدمات يربط العملاء بمزوّدين موثّقين في الصيانة المنزليّة والتنظيف والإصلاح.
+          - generic [ref=e214]:
+            - generic [ref=e215]: 100K+
+            - generic [ref=e216]: تنزيل
+          - generic [ref=e217]:
+            - link "جوجل بلاي" [ref=e218] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.b8ak.b8akapp
+              - generic [ref=e219]: ▶
+              - generic [ref=e220]: جوجل بلاي
+            - link "آب ستور" [ref=e221] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-b8ak-%D8%A8%D9%8A%D8%AA%D9%83/id1017413686?l=ar
+              - generic [ref=e222]: آب ستور
+            - generic [ref=e223]: ↗
+        - article [ref=e225]:
+          - generic [ref=e226]: "05"
+          - generic [ref=e227]:
+            - heading "فنيFanni" [level=3] [ref=e228]
+            - generic [ref=e229]: خدمات فنّية/السعودية
+          - paragraph [ref=e230]: منصّة لحجز فنّيين متخصّصين في الصيانة الفنّية والمنزليّة، مع طلبات وجدولة ودفع داخل التطبيق.
+          - generic [ref=e231]:
+            - generic [ref=e232]: 100K+
+            - generic [ref=e233]: تنزيل
+          - generic [ref=e234]:
+            - link "جوجل بلاي" [ref=e235] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.cloudtech.fanniapp
+              - generic [ref=e236]: ▶
+              - generic [ref=e237]: جوجل بلاي
+            - link "آب ستور" [ref=e238] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/fanni-%D9%81%D9%86%D9%8A/id1136144566
+              - generic [ref=e239]: آب ستور
+            - generic [ref=e240]: ↗
+        - article [ref=e242]:
+          - generic [ref=e243]: "06"
+          - generic [ref=e244]:
+            - heading "تاسكتيTaskty" [level=3] [ref=e245]
+            - generic [ref=e246]: تطبيق مهامّ وخدمات
+          - paragraph [ref=e247]: تطبيق خدمات ومهامّ عند الطلب يربط العملاء بمزوّدين لمختلف الاحتياجات اليوميّة.
+          - generic [ref=e248]:
+            - generic [ref=e249]: 100K+
+            - generic [ref=e250]: تنزيل
+          - generic [ref=e251]:
+            - link "جوجل بلاي" [ref=e252] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.tasktyapp.taskty
+              - generic [ref=e253]: ▶
+              - generic [ref=e254]: جوجل بلاي
+            - link "آب ستور" [ref=e255] [cursor=pointer]:
+              - /url: https://apps.apple.com/sa/app/taskty-cleaning-maintenance/id1486080094
+              - generic [ref=e256]: آب ستور
+            - generic [ref=e257]: ↗
+        - article [ref=e259]:
+          - generic [ref=e260]: "07"
+          - generic [ref=e261]:
+            - heading "مهارةMaharah" [level=3] [ref=e262]
+            - generic [ref=e263]: منصّة مهارات وخدمات
+          - paragraph [ref=e264]: منصّة تربط أصحاب المهارات بالعملاء في خدمات الصنعة اليدويّة والتنظيف والعناية الشخصيّة.
+          - generic [ref=e265]:
+            - generic [ref=e266]: 100K+
+            - generic [ref=e267]: تنزيل
+          - generic [ref=e268]:
+            - link "جوجل بلاي" [ref=e269] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.maharah.maharahApp
+              - generic [ref=e270]: ▶
+              - generic [ref=e271]: جوجل بلاي
+            - link "آب ستور" [ref=e272] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/maharah-%D9%85%D9%87%D8%A7%D8%B1%D8%A9-maintenance/id1044631951
+              - generic [ref=e273]: آب ستور
+            - generic [ref=e274]: ↗
+        - article [ref=e276]:
+          - generic [ref=e277]: "08"
+          - generic [ref=e278]:
+            - heading "HomeRun" [level=3] [ref=e279]
+            - generic [ref=e280]: تطبيق خدمة العملاء
+          - paragraph [ref=e281]: تطبيق موجَّه للعميل لحجز الخدمات عند الطلب، مع تتبّع فوريّ وإدارة كاملة للطلبات.
+          - generic [ref=e282]:
+            - generic [ref=e283]: 100K+
+            - generic [ref=e284]: تنزيل
+          - generic [ref=e285]:
+            - link "جوجل بلاي" [ref=e286] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.homerun.customer
+              - generic [ref=e287]: ▶
+              - generic [ref=e288]: جوجل بلاي
+            - link "آب ستور" [ref=e289] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/homerun-get-things-done/id1506390428
+              - generic [ref=e290]: آب ستور
+            - generic [ref=e291]: ↗
+        - article [ref=e293]:
+          - generic [ref=e294]: "09"
+          - generic [ref=e295]:
+            - heading "LinkOut" [level=3] [ref=e296]
+            - generic [ref=e297]: منصّة تواصل مهنيّ
+          - paragraph [ref=e298]: منصّة تواصل واتّصالات مهنيّة — واجهة Flutter مع خلفيّة Laravel REST.
+          - generic [ref=e299]:
+            - generic [ref=e300]: 100K+
+            - generic [ref=e301]: تنزيل
+          - generic [ref=e302]:
+            - link "جوجل بلاي" [ref=e303] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.xapps.linkout
+              - generic [ref=e304]: ▶
+              - generic [ref=e305]: جوجل بلاي
+            - link "آب ستور" [ref=e306] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/linkout/id6444288176
+              - generic [ref=e307]: آب ستور
+            - generic [ref=e308]: ↗
+        - article [ref=e310]:
+          - generic [ref=e311]: "10"
+          - generic [ref=e312]:
+            - heading "عقار يا مصرAqar Ya Masr" [level=3] [ref=e313]
+            - generic [ref=e314]: سوق عقارات/مصر
+          - paragraph [ref=e315]: منصّة عقاريّة مصريّة بقوائم وبحث وتوليد فرص للوسطاء والمشترين والبائعين على حدٍّ سواء.
+          - generic [ref=e316]:
+            - generic [ref=e317]: 10K+
+            - generic [ref=e318]: تنزيل
+          - generic [ref=e319]:
+            - link "جوجل بلاي" [ref=e320] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=aqar.ya.masr&hl=ar
+              - generic [ref=e321]: ▶
+              - generic [ref=e322]: جوجل بلاي
+            - link "آب ستور" [ref=e323] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1-aqar-ya-masr/id1572629063
+              - generic [ref=e324]: آب ستور
+            - generic [ref=e325]: ↗
+        - article [ref=e327]:
+          - generic [ref=e328]: "11"
+          - generic [ref=e329]:
+            - heading "FRA (LuminSoft)" [level=3] [ref=e330]
+            - generic [ref=e331]: حلٌّ مؤسّسيّ للموبايل
+          - paragraph [ref=e332]: تطبيق موبايل بمستوى المؤسّسات — مصادقة آمنة، معالجة بيانات مشفّرة، وتكامل مع الأنظمة الخلفيّة.
+          - generic [ref=e333]:
+            - generic [ref=e334]: 10K+
+            - generic [ref=e335]: تنزيل
+          - generic [ref=e336]:
+            - link "جوجل بلاي" [ref=e337] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.luminsoft.fra
+              - generic [ref=e338]: ▶
+              - generic [ref=e339]: جوجل بلاي
+            - generic [ref=e340]: ↗
+        - article [ref=e342]:
+          - generic [ref=e343]: "12"
+          - generic [ref=e344]:
+            - heading "خزينKhazyn" [level=3] [ref=e345]
+            - generic [ref=e346]: إدارة مخزون
+          - paragraph [ref=e347]: نظام مخزون كامل بلوحة تحكّم Vue.js وعملاء موبايل بـ Flutter — تتبّع فوريّ للمخزون ومسح للباركود.
+          - generic [ref=e348]:
+            - generic [ref=e349]: 10K+
+            - generic [ref=e350]: تنزيل
+          - generic [ref=e351]:
+            - link "جوجل بلاي" [ref=e352] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.khazyn&hl=ar
+              - generic [ref=e353]: ▶
+              - generic [ref=e354]: جوجل بلاي
+            - link "آب ستور" [ref=e355] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/khazyn-%D8%AE%D8%B2%D9%8A%D9%86/id6462788369
+              - generic [ref=e356]: آب ستور
+            - generic [ref=e357]: ↗
+        - article [ref=e359]:
+          - generic [ref=e360]: "13"
+          - generic [ref=e361]:
+            - heading "Eram Home Services" [level=3] [ref=e362]
+            - generic [ref=e363]: خدمات منزليّة/السعودية
+          - paragraph [ref=e364]: تطبيق خدمات منزليّة من مجموعة إرم يقدّم خدمات التنظيف والصيانة والإصلاح في عموم المملكة العربيّة السعوديّة.
+          - generic [ref=e365]:
+            - generic [ref=e366]: 5K+
+            - generic [ref=e367]: تنزيل
+          - generic [ref=e368]:
+            - link "جوجل بلاي" [ref=e369] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.eramgroupsa.home_service
+              - generic [ref=e370]: ▶
+              - generic [ref=e371]: جوجل بلاي
+            - link "آب ستور" [ref=e372] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/home-service-%D9%87%D9%88%D9%85-%D8%B3%D9%8A%D8%B1%D9%81%D8%B3/id6624303709
+              - generic [ref=e373]: آب ستور
+            - generic [ref=e374]: ↗
+        - article [ref=e376]:
+          - generic [ref=e377]: "14"
+          - generic [ref=e378]:
+            - heading "Coupon EG" [level=3] [ref=e379]
+            - generic [ref=e380]: تجارة إلكترونيّة وتسوّق/مصر
+            - generic [ref=e381]: ٤٫٦★
+          - paragraph [ref=e382]: منصّة تجارة إلكترونيّة لتسوّق الإلكترونيّات في مصر من Tabex Series — كتالوج منتجات وتدفّق طلبات وتتبّع توصيل.
+          - generic [ref=e383]:
+            - generic [ref=e384]: 5K+
+            - generic [ref=e385]: تنزيل
+          - generic [ref=e386]:
+            - link "الموقع" [ref=e387] [cursor=pointer]:
+              - /url: https://coupon-eg.com
+              - generic [ref=e388]: ↗
+              - generic [ref=e389]: الموقع
+            - link "جوجل بلاي" [ref=e390] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.tabex.series.coupon
+              - generic [ref=e391]: ▶
+              - generic [ref=e392]: جوجل بلاي
+            - generic [ref=e393]: ↗
+        - article [ref=e395]:
+          - generic [ref=e396]: "15"
+          - generic [ref=e397]:
+            - heading "أوتوماركAutoMark" [level=3] [ref=e398]
+            - generic [ref=e399]: نظام تصحيح آليّ/السعودية
+          - paragraph [ref=e400]: منصّة موبايل لتصحيح الامتحانات آلياً عبر OCR ومعالجة الصور — تستخدمها مؤسّسات تعليميّة في عموم السعوديّة.
+          - generic [ref=e401]:
+            - generic [ref=e402]: 5K+
+            - generic [ref=e403]: تنزيل
+          - generic [ref=e404]:
+            - link "جوجل بلاي" [ref=e405] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.secItDevelopers.auto_mark_app&hl=ar
+              - generic [ref=e406]: ▶
+              - generic [ref=e407]: جوجل بلاي
+            - link "آب ستور" [ref=e408] [cursor=pointer]:
+              - /url: https://apps.apple.com/ae/app/automark-%D8%A7%D9%88%D8%AA%D9%88%D9%85%D8%A7%D8%B1%D9%83/id6473959588
+              - generic [ref=e409]: آب ستور
+            - generic [ref=e410]: ↗
+        - article [ref=e412]:
+          - generic [ref=e413]: "16"
+          - generic [ref=e414]:
+            - heading "MENASIM" [level=3] [ref=e415]
+            - generic [ref=e416]: اتّصالات eSIM للسفر/عالميّ
+            - generic [ref=e417]: أكثر من ١٥٠ دولة
+          - paragraph [ref=e418]: سوق eSIM يتيح للمسافرين شراء وتفعيل باقات البيانات في أكثر من ١٥٠ دولة عبر التكامل مع واجهات مزوّدي الاتّصالات.
+          - generic [ref=e419]:
+            - generic [ref=e420]: 1K+
+            - generic [ref=e421]: تنزيل
+          - generic [ref=e422]:
+            - link "جوجل بلاي" [ref=e423] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.mena.esim.travel&hl=ar
+              - generic [ref=e424]: ▶
+              - generic [ref=e425]: جوجل بلاي
+            - link "آب ستور" [ref=e426] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/menasim-esim-travel-internet/id6462143799
+              - generic [ref=e427]: آب ستور
+            - generic [ref=e428]: ↗
+        - article [ref=e430]:
+          - generic [ref=e431]: "17"
+          - generic [ref=e432]:
+            - heading "GARO" [level=3] [ref=e433]
+            - generic [ref=e434]: سوق للخدمات/السعودية
+          - paragraph [ref=e435]: سوق خدمات للسوق السعودي مع مطابقة المزوّدين وحجز وتكامل دفع.
+          - generic [ref=e436]:
+            - generic [ref=e437]: 1K+
+            - generic [ref=e438]: تنزيل
+          - generic [ref=e439]:
+            - link "جوجل بلاي" [ref=e440] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.garo.ksa
+              - generic [ref=e441]: ▶
+              - generic [ref=e442]: جوجل بلاي
+            - link "آب ستور" [ref=e443] [cursor=pointer]:
+              - /url: https://apps.apple.com/eg/app/garo/id1533064818?l=ar
+              - generic [ref=e444]: آب ستور
+            - generic [ref=e445]: ↗
+        - article [ref=e447]:
+          - generic [ref=e448]: "18"
+          - generic [ref=e449]:
+            - heading "Saudi Ophthalmology" [level=3] [ref=e450]
+            - generic [ref=e451]: مؤتمر طبّي/السعودية
+            - generic [ref=e452]: تطبيق فعّاليّة لجمهور مغلق
+          - paragraph [ref=e453]: تطبيق مؤتمر طبّ العيون السعودي — جداول وملفّات متحدّثين وإدارة جلسات، يُوزَّع على حضور الفعّاليّة فقط.
+          - generic [ref=e454]:
+            - generic [ref=e455]: 1+
+            - generic [ref=e456]: تنزيل
+          - generic [ref=e457]:
+            - link "جوجل بلاي" [ref=e458] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.plevents.saudi_event&hl=en
+              - generic [ref=e459]: ▶
+              - generic [ref=e460]: جوجل بلاي
+            - link "آب ستور" [ref=e461] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/saudi-ophthalmollogy/id6469462310
+              - generic [ref=e462]: آب ستور
+            - generic [ref=e463]: ↗
+        - article [ref=e465]:
+          - generic [ref=e466]: "19"
+          - generic [ref=e467]:
+            - heading "خيمة زمانKhaymat Zaman" [level=3] [ref=e468]
+            - generic [ref=e469]: مطعم وتوصيل
+            - generic [ref=e470]: iOS فقط
+          - paragraph [ref=e471]: تطبيق طلبات وتوصيل لمطعم — إدارة قائمة طعام وتتبّع طلبات ودفع متكامل.
+          - generic [ref=e472]:
+            - generic [ref=e473]: —
+            - generic [ref=e474]: تنزيل
+          - generic [ref=e475]:
+            - link "آب ستور" [ref=e476] [cursor=pointer]:
+              - /url: https://apps.apple.com/ae/app/khaymat-zaman-%D8%AE%D9%8A%D9%85%D8%A9-%D8%B2%D9%85%D8%A7%D9%86/id1512642490
+              - generic [ref=e477]: آب ستور
+            - generic [ref=e478]: ↗
+    - generic [ref=e480]:
+      - complementary [ref=e481]:
+        - generic [ref=e482]:
+          - generic [ref=e483]: — الفصل 02
+          - heading "التعليم وصناعة المحتوى" [level=2] [ref=e484]
+          - paragraph [ref=e485]: دورات، قنوات، وكتابة تقنيّة.
+          - generic [ref=e486]:
+            - generic [ref=e487]: ●
+            - text: 3 مدخلات
+      - generic [ref=e488]:
+        - article [ref=e490]:
+          - generic [ref=e491]: "20"
+          - generic [ref=e492]:
+            - heading "CODELIX" [level=3] [ref=e493]
+            - generic [ref=e494]: قناة يوتيوب — المؤسّس والصانع
+            - generic [ref=e495]: ١٠٫٣ آلاف مشترك · أكثر من ٤٦٠ ألف مشاهدة
+          - paragraph [ref=e496]: قناة يوتيوب تعليميّة متخصّصة في Flutter المتقدّم ومعماريّة البرمجيّات وأفضل الممارسات.
+          - generic [ref=e498]: —
+          - generic [ref=e499]:
+            - link "زر القناة" [ref=e500] [cursor=pointer]:
+              - /url: https://www.youtube.com/@Codelix-v4t
+              - generic [ref=e501]: ▶
+              - generic [ref=e502]: زر القناة
+            - generic [ref=e503]: ↗
+        - article [ref=e505]:
+          - generic [ref=e506]: "21"
+          - generic [ref=e507]:
+            - heading "Flutter Advanced Course" [level=3] [ref=e508]
+            - generic [ref=e509]: معماريّات Flutter — مدرّب يوديمي
+            - generic [ref=e510]: ٦٬٥٨١ طالباً · ٤٫٦★
+          - paragraph [ref=e511]: دورة متقدّمة في معماريّات Flutter باللغة العربيّة تغطّي المعماريّة النظيفة وإدارة الحالة وأنماط بمستوى الإنتاج.
+          - generic [ref=e513]: —
+          - generic [ref=e514]:
+            - link "اعرض على يوديمي" [ref=e515] [cursor=pointer]:
+              - /url: https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/
+              - generic [ref=e516]: ◉
+              - generic [ref=e517]: اعرض على يوديمي
+            - generic [ref=e518]: ↗
+        - article [ref=e520]:
+          - generic [ref=e521]: "22"
+          - generic [ref=e522]:
+            - heading "Tech Page" [level=3] [ref=e523]
+            - generic [ref=e524]: صانع محتوى على فيسبوك
+            - generic [ref=e525]: أكثر من ٤ آلاف مشاهدة لكل منشور
+          - paragraph [ref=e526]: منشورات تقنيّة منتظمة ومراجعات كود تصل إلى جمهور المطوّرين في عموم منطقة الشرق الأوسط وشمال أفريقيا.
+          - generic [ref=e528]: —
+          - generic [ref=e529]:
+            - link "صفحة فيسبوك" [ref=e530] [cursor=pointer]:
+              - /url: https://www.facebook.com/devsherif/
+              - generic [ref=e531]: f
+              - generic [ref=e532]: صفحة فيسبوك
+            - generic [ref=e533]: ↗
+    - generic [ref=e535]:
+      - generic [ref=e537]: — تنويه / للتواصل
+      - generic [ref=e538]:
+        - paragraph [ref=e541]: لنبنِ العشرين القادمة.
+        - generic [ref=e542]:
+          - link "engahmedsherif39@gmail.com" [ref=e543] [cursor=pointer]:
+            - /url: mailto:engahmedsherif39@gmail.com
+          - link "+20 102 358 1657" [ref=e544] [cursor=pointer]:
+            - /url: tel:+201023581657
+          - link "GitHub ↗" [ref=e545] [cursor=pointer]:
+            - /url: https://github.com/sherifjavaandroid
+          - link "يوتيوب · CODELIX ↗" [ref=e546] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Codelix-v4t
+          - link "دورة يوديمي ↗" [ref=e547] [cursor=pointer]:
+            - /url: https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/
+      - generic [ref=e548]:
+        - generic [ref=e549]: © ٢٠٢٠—٢٠٢٦ / أحمد شريف / جميع الحقوق محفوظة
+        - generic [ref=e551]: أُعدّ بخطّي أميري وأي بي إم بلكس
+  - button "Open Next.js Dev Tools" [ref=e557] [cursor=pointer]:
+    - img [ref=e558]

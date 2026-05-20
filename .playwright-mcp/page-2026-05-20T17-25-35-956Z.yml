@@ -1,0 +1,9 @@
+- generic [ref=e2]:
+  - generic [ref=e3]: We're sorry, the requested URL was not found on this server.
+  - generic [ref=e4]:
+    - link "Google Play":
+      - /url: /store
+      - img "Google Play" [ref=e5] [cursor=pointer]
+    - generic [ref=e6]:
+      - textbox [ref=e7]
+      - button "Search" [ref=e8]

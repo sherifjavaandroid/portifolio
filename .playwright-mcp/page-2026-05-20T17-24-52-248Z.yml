@@ -1,0 +1,372 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation "Page Header" [ref=e3]:
+      - link "Google Play logo" [ref=e4] [cursor=pointer]:
+        - /url: /store/games
+        - img [ref=e5]
+        - generic [ref=e12]: google_logo Play
+      - navigation "Main" [ref=e14]:
+        - tablist [ref=e16]:
+          - generic [ref=e19]:
+            - tab "Games" [ref=e20] [cursor=pointer]:
+              - generic:
+                - generic: Games
+            - tab "Apps" [selected] [ref=e22] [cursor=pointer]:
+              - generic:
+                - generic: Apps
+            - tab "Books" [ref=e24] [cursor=pointer]:
+              - generic:
+                - generic: Books
+            - tab "Kids" [ref=e26] [cursor=pointer]:
+              - generic:
+                - generic: Kids
+      - generic [ref=e28]:
+        - button "Search" [ref=e30] [cursor=pointer]:
+          - generic [ref=e31]: search
+        - button "Help Center" [ref=e33] [cursor=pointer]:
+          - generic [ref=e34]: help_outline
+        - button "Open account menu" [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+  - generic [ref=e45]:
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - img [ref=e51]
+          - img [ref=e52]
+        - generic [ref=e53]:
+          - generic [ref=e56]:
+            - heading "معاك | Ma3ak" [level=1] [ref=e58]
+            - link "Ebda3 Egypt" [ref=e61] [cursor=pointer]:
+              - /url: /store/apps/developer?id=Ebda3+Egypt
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - generic "Rated 2.0 stars out of five stars" [ref=e68]:
+                - text: "2.0"
+                - generic [ref=e69]: star
+              - generic [ref=e70]: 1.75K reviews
+            - generic [ref=e71]:
+              - generic [ref=e72]: 100K+
+              - generic [ref=e73]: Downloads
+      - generic [ref=e74]:
+        - button "Install" [ref=e82]:
+          - generic [ref=e85]: Install
+        - generic [ref=e86]:
+          - button "Share" [ref=e90] [cursor=pointer]:
+            - img [ref=e92]
+          - button "Add to wishlist" [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - button "Screenshot image" [ref=e111] [cursor=pointer]
+            - listitem [ref=e112]:
+              - button "Screenshot image" [ref=e114] [cursor=pointer]
+            - listitem [ref=e115]:
+              - button "Screenshot image" [ref=e117] [cursor=pointer]
+            - listitem [ref=e118]:
+              - button "Screenshot image" [ref=e120] [cursor=pointer]
+          - generic [ref=e123]:
+            - generic [ref=e125]:
+              - heading "About this app" [level=2] [ref=e127]
+              - button "See more information on About this app" [ref=e129] [cursor=pointer]:
+                - generic [ref=e130]: arrow_forward
+            - generic [ref=e131]:
+              - generic [ref=e132]:
+                - text: What is the application of "Ma3ak"?
+                - text: An interactive, real-time platform offering road assistance services in the Arab Republic of Egypt through a dedicated smartphone application.
+                - text: What are the "Ma3ak" application services?
+                - text: • Car transport.
+                - text: • Recharging the battery.
+                - text: • Help in the installation of the backup frame.
+                - text: • Connecting and filling fuel if it is in place.
+                - text: • Provide information on road services (eg nearest gas station, nearest hospitals, nearest repair workshops, available roads and crowded).
+                - text: • Escort service.
+                - text: • Transportation of injured persons.
+                - text: • Alternative car service.
+                - text: Why choose "Ma3ak"?
+                - text: "• Easy to subscribe:"
+                - text: "- Packages are specific, clear and easy to find the right package for your car."
+                - text: "• Ease of use:"
+                - text: "- Pay when you get the service."
+                - text: "• Speed of service:"
+                - text: "- Applications are processed electronically and the nearest authorized service provider is assigned in record time."
+                - text: "- Winch service available from 45 to 60 minutes in Cairo and Giza."
+                - text: "- Winch service available from 60 to 90 minutes outside of Cairo and Giza."
+                - text: "• At any time and anywhere:"
+                - text: We do not have time to work. We seek your comfort around the clock and do our best to expand our coverage throughout the Republic.
+                - text: "• Professional dealing:"
+                - text: The service partners are selected very carefully to ensure the satisfaction of the user. We have contracted with companies with long experience in this field and are working hard to serve you in a way that pleases you.
+              - generic [ref=e135]:
+                - generic [ref=e136]: Updated on
+                - generic [ref=e137]: Nov 23, 2025
+              - generic [ref=e140]:
+                - generic [ref=e142]: Tools
+                - link "Tools" [ref=e143] [cursor=pointer]:
+                  - /url: /store/apps/category/TOOLS
+          - generic [ref=e145]:
+            - generic [ref=e147]:
+              - heading "Data safety" [level=2] [ref=e149]
+              - generic [ref=e150] [cursor=pointer]:
+                - generic [ref=e151]: arrow_forward
+                - link "See more information on Data safety" [ref=e152]:
+                  - /url: /store/apps/datasafety?id=com.m3ak.m3ak
+            - generic [ref=e153]:
+              - text: Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
+              - generic [ref=e154]:
+                - generic [ref=e155]:
+                  - img [ref=e156]
+                  - generic [ref=e157]:
+                    - text: No data shared with third parties
+                    - generic [ref=e158]:
+                      - link "Learn more" [ref=e159] [cursor=pointer]:
+                        - /url: https://support.google.com/googleplay?p=data-safety&hl=en
+                      - text: about how developers declare sharing
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - generic [ref=e162]:
+                    - text: No data collected
+                    - generic [ref=e163]:
+                      - link "Learn more" [ref=e164] [cursor=pointer]:
+                        - /url: https://support.google.com/googleplay?p=data-safety&hl=en
+                      - text: about how developers declare collection
+                - generic [ref=e167]:
+                  - generic [ref=e169]: See details
+                  - link "See more details on data safety" [ref=e170] [cursor=pointer]:
+                    - /url: /store/apps/datasafety?id=com.m3ak.m3ak
+          - generic [ref=e172]:
+            - generic [ref=e174]:
+              - heading "Ratings and reviews" [level=2] [ref=e176]
+              - button "See more information on Ratings and reviews" [ref=e178] [cursor=pointer]:
+                - generic [ref=e179]: arrow_forward
+              - button "Ratings and reviews are verified" [ref=e183]:
+                - generic [ref=e186]: Ratings and reviews are verified
+                - generic [ref=e187]: info_outline
+            - generic [ref=e188]:
+              - generic [ref=e191]:
+                - button "Phone" [pressed] [ref=e192] [cursor=pointer]:
+                  - generic [ref=e194]:
+                    - generic [ref=e196]: phone_android
+                    - generic [ref=e197]: Phone
+                - button "Tablet" [ref=e198] [cursor=pointer]:
+                  - generic [ref=e200]:
+                    - generic [ref=e202]: tablet_android
+                    - generic [ref=e203]: Tablet
+              - generic [ref=e204]:
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - generic [ref=e209]: "1.9"
+                    - img "Rated 1.9 stars out of five stars" [ref=e210]:
+                      - img [ref=e213]
+                      - img [ref=e219]
+                      - img [ref=e225]
+                      - img [ref=e231]
+                      - img [ref=e237]
+                    - generic [ref=e241]: 1.64K reviews
+                  - generic [ref=e242]:
+                    - img "343 reviews for star rating 5" [ref=e243]:
+                      - generic [ref=e244]: "5"
+                    - img "20 reviews for star rating 4" [ref=e247]:
+                      - generic [ref=e248]: "4"
+                    - img "9 reviews for star rating 3" [ref=e251]:
+                      - generic [ref=e252]: "3"
+                    - img "62 reviews for star rating 2" [ref=e255]:
+                      - generic [ref=e256]: "2"
+                    - img "1,199 reviews for star rating 1" [ref=e259]:
+                      - generic [ref=e260]: "1"
+                - generic [ref=e263]:
+                  - generic [ref=e264]:
+                    - generic [ref=e265]:
+                      - generic [ref=e266]:
+                        - img [ref=e267]
+                        - generic [ref=e268]: Amany Khalifa
+                      - button "More review actions" [ref=e272] [cursor=pointer]:
+                        - generic [ref=e273]: more_vert
+                    - generic [ref=e274]:
+                      - img "Rated 1 stars out of five stars" [ref=e275]:
+                        - img [ref=e278]
+                        - img [ref=e284]
+                        - img [ref=e290]
+                        - img [ref=e296]
+                        - img [ref=e302]
+                      - text: February 18, 2022
+                  - generic [ref=e306]: This is the worst app I have ever tried to use. First, you can't log in Second, You can't contact them Third and last, I advise any one to not use this dirty app. If I could give them -5 stars as rating I would do that
+                  - generic [ref=e307]:
+                    - generic [ref=e308]: 10 people found this review helpful
+                    - generic [ref=e309]:
+                      - generic [ref=e310]: Did you find this helpful?
+                      - generic [ref=e312]:
+                        - button "Yes" [ref=e313] [cursor=pointer]:
+                          - generic [ref=e316]: "Yes"
+                        - button "No" [ref=e317] [cursor=pointer]:
+                          - generic [ref=e320]: "No"
+                - generic [ref=e321]:
+                  - generic [ref=e322]:
+                    - generic [ref=e323]:
+                      - generic [ref=e324]:
+                        - img [ref=e325]
+                        - generic [ref=e326]: Amr Bary
+                      - button "More review actions" [ref=e330] [cursor=pointer]:
+                        - generic [ref=e331]: more_vert
+                    - generic [ref=e332]:
+                      - img "Rated 1 stars out of five stars" [ref=e333]:
+                        - img [ref=e336]
+                        - img [ref=e342]
+                        - img [ref=e348]
+                        - img [ref=e354]
+                        - img [ref=e360]
+                      - text: October 26, 2021
+                  - generic [ref=e364]: it doesn't log in ?? even it doesn't have the option to create new accounts Unbelievable..... please contact us, as the email you provided is not working
+                  - generic [ref=e365]:
+                    - generic [ref=e366]: 40 people found this review helpful
+                    - generic [ref=e367]:
+                      - generic [ref=e368]: Did you find this helpful?
+                      - generic [ref=e370]:
+                        - button "Yes" [ref=e371] [cursor=pointer]:
+                          - generic [ref=e374]: "Yes"
+                        - button "No" [ref=e375] [cursor=pointer]:
+                          - generic [ref=e378]: "No"
+                - generic [ref=e379]:
+                  - generic [ref=e380]:
+                    - generic [ref=e381]:
+                      - generic [ref=e382]:
+                        - img [ref=e383]
+                        - generic [ref=e384]: Nemo
+                      - button "More review actions" [ref=e388] [cursor=pointer]:
+                        - generic [ref=e389]: more_vert
+                    - generic [ref=e390]:
+                      - img "Rated 1 stars out of five stars" [ref=e391]:
+                        - img [ref=e394]
+                        - img [ref=e400]
+                        - img [ref=e406]
+                        - img [ref=e412]
+                        - img [ref=e418]
+                      - text: December 30, 2020
+                  - generic [ref=e422]: The app not dumb password is the code in the cover in your book but I give it one start because i entered the code and it doesn't work I didn't login😒😤😖🙎
+                  - generic [ref=e423]:
+                    - generic [ref=e424]: 86 people found this review helpful
+                    - generic [ref=e425]:
+                      - generic [ref=e426]: Did you find this helpful?
+                      - generic [ref=e428]:
+                        - button "Yes" [ref=e429] [cursor=pointer]:
+                          - generic [ref=e432]: "Yes"
+                        - button "No" [ref=e433] [cursor=pointer]:
+                          - generic [ref=e436]: "No"
+                - button "See all reviews" [ref=e440]:
+                  - generic [ref=e443]: See all reviews
+        - link "Flag as inappropriate" [ref=e447] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/?p=report_content
+          - generic [ref=e448]: flag
+          - text: Flag as inappropriate
+      - generic [ref=e449]:
+        - generic [ref=e450]:
+          - img "Content rating" [ref=e451]
+          - generic [ref=e452]:
+            - generic [ref=e453]: Rated for 3+
+            - link "Learn more about content ratings" [ref=e454] [cursor=pointer]:
+              - /url: https://support.google.com/googleplay?p=appgame_ratings
+              - text: Learn more
+        - generic [ref=e458]:
+          - heading "App support" [level=2] [ref=e460]
+          - button "Expand" [ref=e462] [cursor=pointer]:
+            - generic [ref=e463]: expand_more
+        - generic [ref=e465]:
+          - generic [ref=e467]:
+            - heading "More by Ebda3 Egypt" [level=2] [ref=e469]:
+              - generic [ref=e470]: More by Ebda3 Egypt
+            - generic [ref=e471] [cursor=pointer]:
+              - generic [ref=e472]: arrow_forward
+              - link "See more information on More by Ebda3 Egypt" [ref=e473]:
+                - /url: /store/apps/collection/cluster?gsr=Sk5qGFQ2SnZHNnBWMjMwRzNrT0lXWU5BYWc9PbICLgoRCg1jb20ubTNhay5tM2FrEAcSFwgBEhM2NDM5NDUzMjUxMzIyNDM0Njk5GACwEgA%3D:S:ANO1ljL8yJ4
+          - generic [ref=e475]:
+            - link "شافي Ebda3 Egypt" [ref=e477] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.ebda3.shafy.app
+              - generic [ref=e478]:
+                - img [ref=e479]
+                - generic [ref=e480]:
+                  - generic [ref=e482]: شافي
+                  - generic [ref=e484]: Ebda3 Egypt
+            - link "ذبيحتك Ebda3 Egypt" [ref=e486] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.dabehtek.app.v2
+              - generic [ref=e487]:
+                - img [ref=e488]
+                - generic [ref=e489]:
+                  - generic [ref=e491]: ذبيحتك
+                  - generic [ref=e493]: Ebda3 Egypt
+            - link "Atlantis Riders Ebda3 Egypt" [ref=e495] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.atlantis.driver.app
+              - generic [ref=e496]:
+                - img [ref=e497]
+                - generic [ref=e498]:
+                  - generic [ref=e500]: Atlantis Riders
+                  - generic [ref=e502]: Ebda3 Egypt
+            - link "ميرا كارد - MIRA CARD Ebda3 Egypt" [ref=e504] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.ebda3.miracard
+              - generic [ref=e505]:
+                - img [ref=e506]
+                - generic [ref=e507]:
+                  - generic [ref=e509]: ميرا كارد - MIRA CARD
+                  - generic [ref=e511]: Ebda3 Egypt
+            - link "ميرا بارك - ادارة مدن الملاهي Ebda3 Egypt" [ref=e513] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.ebda3.mira
+              - generic [ref=e514]:
+                - img [ref=e515]
+                - generic [ref=e516]:
+                  - generic [ref=e518]: ميرا بارك - ادارة مدن الملاهي
+                  - generic [ref=e520]: Ebda3 Egypt
+            - link "موان | Mawan Ebda3 Egypt Rated 4.4 stars out of five stars" [ref=e522] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.ebda3.mwan
+              - generic [ref=e523]:
+                - img [ref=e524]
+                - generic [ref=e525]:
+                  - generic [ref=e527]: موان | Mawan
+                  - generic [ref=e529]: Ebda3 Egypt
+                  - generic "Rated 4.4 stars out of five stars" [ref=e531]:
+                    - generic [ref=e532]: "4.4"
+                    - generic [ref=e534]: star
+  - contentinfo [ref=e536]:
+    - generic [ref=e538]:
+      - generic [ref=e540]:
+        - text: Google Play
+        - link "Play Pass" [ref=e542] [cursor=pointer]:
+          - /url: /store/pass/getstarted
+          - paragraph [ref=e543]: Play Pass
+        - link "Play Points" [ref=e545] [cursor=pointer]:
+          - /url: /store/points/enroll
+          - paragraph [ref=e546]: Play Points
+        - link "Gift cards" [ref=e548] [cursor=pointer]:
+          - /url: https://play.google.com/about/giftcards
+          - paragraph [ref=e549]: Gift cards
+        - link "Redeem" [ref=e551] [cursor=pointer]:
+          - /url: /redeem
+          - paragraph [ref=e552]: Redeem
+        - link "Refund policy" [ref=e554] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/answer/134336
+          - paragraph [ref=e555]: Refund policy
+      - generic [ref=e557]:
+        - text: Kids & family
+        - link "Parent Guide" [ref=e559] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay?p=pff_parentguide
+          - paragraph [ref=e560]: Parent Guide
+        - link "Family sharing" [ref=e562] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/answer/7007852
+          - paragraph [ref=e563]: Family sharing
+    - generic [ref=e564]:
+      - link "Terms of Service" [ref=e566] [cursor=pointer]:
+        - /url: https://play.google.com/intl/en-US_eg/about/play-terms.html
+        - paragraph [ref=e567]: Terms of Service
+      - link "Privacy" [ref=e569] [cursor=pointer]:
+        - /url: https://policies.google.com/privacy
+        - paragraph [ref=e570]: Privacy
+      - link "About Google Play" [ref=e572] [cursor=pointer]:
+        - /url: https://support.google.com/googleplay/?p=about_play
+        - paragraph [ref=e573]: About Google Play
+      - link "Developers" [ref=e575] [cursor=pointer]:
+        - /url: http://developer.android.com/index.html
+        - paragraph [ref=e576]: Developers
+      - link "Google Store" [ref=e578] [cursor=pointer]:
+        - /url: https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288
+        - paragraph [ref=e579]: Google Store
+      - generic [ref=e580]: All prices include VAT.
+      - generic [ref=e583]: Egypt (English (United States))

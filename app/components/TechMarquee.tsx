@@ -1,11 +1,16 @@
+"use client";
+
+import { ui } from "@/lib/i18n";
 import { techStack } from "@/lib/projects";
+import { useI18n } from "../providers";
 
 export default function TechMarquee() {
+  const { lang } = useI18n();
   const items = [...techStack, ...techStack];
   return (
     <section
       id="stack"
-      aria-label="Technical stack"
+      aria-label={ui.marquee.aria[lang]}
       className="relative border-y border-line py-6 overflow-hidden bg-ink-2/30"
     >
       <div className="flex whitespace-nowrap marquee-track">

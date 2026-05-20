@@ -1,0 +1,259 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation "Page Header" [ref=e3]:
+      - link "Google Play logo" [ref=e4] [cursor=pointer]:
+        - /url: /store/games
+        - img [ref=e5]
+        - generic [ref=e12]: google_logo Play
+      - navigation "Main" [ref=e14]:
+        - tablist [ref=e16]:
+          - generic [ref=e19]:
+            - tab "Games" [ref=e20] [cursor=pointer]:
+              - generic:
+                - generic: Games
+            - tab "Apps" [selected] [ref=e22] [cursor=pointer]:
+              - generic:
+                - generic: Apps
+            - tab "Books" [ref=e24] [cursor=pointer]:
+              - generic:
+                - generic: Books
+            - tab "Kids" [ref=e26] [cursor=pointer]:
+              - generic:
+                - generic: Kids
+      - generic [ref=e28]:
+        - button "Search" [ref=e30] [cursor=pointer]:
+          - generic [ref=e31]: search
+        - button "Help Center" [ref=e33] [cursor=pointer]:
+          - generic [ref=e34]: help_outline
+        - button "Open account menu" [ref=e39] [cursor=pointer]:
+          - img [ref=e40]
+  - generic [ref=e45]:
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - img [ref=e51]
+          - img [ref=e52]
+        - generic [ref=e53]:
+          - generic [ref=e56]:
+            - heading "Sos Conference" [level=1] [ref=e58]
+            - link "Ahmed AbouelEla" [ref=e61] [cursor=pointer]:
+              - /url: /store/apps/developer?id=Ahmed+AbouelEla
+          - generic [ref=e65]:
+            - generic [ref=e66]: 1+
+            - generic [ref=e67]: Downloads
+      - generic [ref=e68]:
+        - button "Install" [ref=e76]:
+          - generic [ref=e79]: Install
+        - generic [ref=e80]:
+          - button "Share" [ref=e84] [cursor=pointer]:
+            - img [ref=e86]
+          - button "Add to wishlist" [ref=e91] [cursor=pointer]:
+            - img [ref=e93]
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - generic [ref=e101]:
+            - list [ref=e102]:
+              - listitem [ref=e103]:
+                - button "Screenshot image" [ref=e105] [cursor=pointer]
+              - listitem [ref=e106]:
+                - button "Screenshot image" [ref=e108] [cursor=pointer]
+              - listitem [ref=e109]:
+                - button "Screenshot image" [ref=e111] [cursor=pointer]
+              - listitem [ref=e112]:
+                - button "Screenshot image" [ref=e114] [cursor=pointer]
+              - listitem [ref=e115]:
+                - button "Screenshot image" [ref=e117] [cursor=pointer]
+              - listitem [ref=e118]:
+                - button "Screenshot image" [ref=e120] [cursor=pointer]
+              - listitem [ref=e121]:
+                - button "Screenshot image" [ref=e123] [cursor=pointer]
+              - listitem [ref=e124]:
+                - button "Screenshot image" [ref=e126] [cursor=pointer]
+              - listitem [ref=e127]:
+                - button "Screenshot image" [ref=e129] [cursor=pointer]
+              - listitem [ref=e130]:
+                - button "Screenshot image" [ref=e132] [cursor=pointer]
+              - listitem [ref=e133]:
+                - button "Screenshot image" [ref=e135] [cursor=pointer]
+              - listitem [ref=e136]:
+                - button "Screenshot image" [ref=e138] [cursor=pointer]
+              - listitem [ref=e139]:
+                - button "Screenshot image" [ref=e141] [cursor=pointer]
+              - listitem [ref=e142]:
+                - button "Screenshot image" [ref=e144] [cursor=pointer]
+              - listitem [ref=e145]:
+                - button "Screenshot image" [ref=e147] [cursor=pointer]
+              - listitem [ref=e148]:
+                - button "Screenshot image" [ref=e150] [cursor=pointer]
+              - listitem [ref=e151]:
+                - button "Screenshot image" [ref=e153] [cursor=pointer]
+              - listitem [ref=e154]:
+                - button "Screenshot image" [ref=e156] [cursor=pointer]
+              - listitem [ref=e157]:
+                - button "Screenshot image" [ref=e159] [cursor=pointer]
+              - listitem [ref=e160]:
+                - button "Screenshot image" [ref=e162] [cursor=pointer]
+              - listitem [ref=e163]:
+                - button "Screenshot image" [ref=e165] [cursor=pointer]
+              - listitem [ref=e166]:
+                - button "Screenshot image" [ref=e168] [cursor=pointer]
+              - listitem [ref=e169]:
+                - button "Screenshot image" [ref=e171] [cursor=pointer]
+              - listitem [ref=e172]:
+                - button "Screenshot image" [ref=e174] [cursor=pointer]
+            - button "Scroll Next" [ref=e176] [cursor=pointer]:
+              - generic [ref=e178]: chevron_right
+          - generic [ref=e181]:
+            - generic [ref=e183]:
+              - heading "About this app" [level=2] [ref=e185]
+              - button "See more information on About this app" [ref=e187] [cursor=pointer]:
+                - generic [ref=e188]: arrow_forward
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - text: Access all you need for Saudi Ophthalmology 2024 | The Red Sea. Get the latest schedules, speaker info, venue maps, and real-time updates. Maximize your experience with workshops, exhibitor details, and networking opportunities.
+                - text: Download now to stay informed!
+              - generic [ref=e192]:
+                - generic [ref=e193]: Updated on
+                - generic [ref=e194]: Nov 5, 2024
+              - generic [ref=e197]:
+                - generic [ref=e199]: Events
+                - link "Events" [ref=e200] [cursor=pointer]:
+                  - /url: /store/apps/category/EVENTS
+          - generic [ref=e202]:
+            - generic [ref=e204]:
+              - heading "Data safety" [level=2] [ref=e206]
+              - generic [ref=e207] [cursor=pointer]:
+                - generic [ref=e208]: arrow_forward
+                - link "See more information on Data safety" [ref=e209]:
+                  - /url: /store/apps/datasafety?id=com.plevents.saudi_event
+            - generic [ref=e210]:
+              - text: Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - img [ref=e213]
+                  - generic [ref=e214]:
+                    - text: No data shared with third parties
+                    - generic [ref=e215]:
+                      - link "Learn more" [ref=e216] [cursor=pointer]:
+                        - /url: https://support.google.com/googleplay?p=data-safety&hl=en
+                      - text: about how developers declare sharing
+                - generic [ref=e217]:
+                  - img [ref=e218]
+                  - generic [ref=e219]:
+                    - text: No data collected
+                    - generic [ref=e220]:
+                      - link "Learn more" [ref=e221] [cursor=pointer]:
+                        - /url: https://support.google.com/googleplay?p=data-safety&hl=en
+                      - text: about how developers declare collection
+                - generic [ref=e222]:
+                  - img [ref=e223]
+                  - generic [ref=e224]: Data is encrypted in transit
+                - generic [ref=e225]:
+                  - img [ref=e226]
+                  - generic [ref=e227]: You can request that data be deleted
+                - generic [ref=e230]:
+                  - generic [ref=e232]: See details
+                  - link "See more details on data safety" [ref=e233] [cursor=pointer]:
+                    - /url: /store/apps/datasafety?id=com.plevents.saudi_event
+        - link "Flag as inappropriate" [ref=e237] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/?p=report_content
+          - generic [ref=e238]: flag
+          - text: Flag as inappropriate
+      - generic [ref=e239]:
+        - generic [ref=e240]:
+          - img "Content rating" [ref=e241]
+          - generic [ref=e242]:
+            - generic [ref=e243]: Rated for 3+
+            - link "Learn more about content ratings" [ref=e244] [cursor=pointer]:
+              - /url: https://support.google.com/googleplay?p=appgame_ratings
+              - text: Learn more
+        - generic [ref=e248]:
+          - heading "App support" [level=2] [ref=e250]
+          - button "Expand" [ref=e252] [cursor=pointer]:
+            - generic [ref=e253]: expand_more
+        - generic [ref=e255]:
+          - generic [ref=e257]:
+            - heading "More by Ahmed AbouelEla" [level=2] [ref=e259]:
+              - generic [ref=e260]: More by Ahmed AbouelEla
+            - generic [ref=e261] [cursor=pointer]:
+              - generic [ref=e262]: arrow_forward
+              - link "See more information on More by Ahmed AbouelEla" [ref=e263]:
+                - /url: /store/apps/collection/cluster?gsr=SllqGGFrU0VlOVo2Wm5FTzVnUkgrT29sSXc9PbICOQocChhjb20ucGxldmVudHMuc2F1ZGlfZXZlbnQQBxIXCAESEzQ4NjAzOTEwOTQxNDUyODIzMTcYALASAA%3D%3D:S:ANO1ljLrDL0
+          - generic [ref=e265]:
+            - link "Getstenix Ahmed AbouelEla Rated 3.0 stars out of five stars" [ref=e267] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.getstenix_front
+              - generic [ref=e268]:
+                - img [ref=e269]
+                - generic [ref=e270]:
+                  - generic [ref=e272]: Getstenix
+                  - generic [ref=e274]: Ahmed AbouelEla
+                  - generic "Rated 3.0 stars out of five stars" [ref=e276]:
+                    - generic [ref=e277]: "3.0"
+                    - generic [ref=e279]: star
+            - link "Sportal Ahmed AbouelEla" [ref=e281] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.thecodehaus.sportal2
+              - generic [ref=e282]:
+                - img [ref=e283]
+                - generic [ref=e284]:
+                  - generic [ref=e286]: Sportal
+                  - generic [ref=e288]: Ahmed AbouelEla
+            - link "Veto App Ahmed AbouelEla" [ref=e290] [cursor=pointer]:
+              - /url: /store/apps/details?id=com.fifa_front.veto
+              - generic [ref=e291]:
+                - img [ref=e292]
+                - generic [ref=e293]:
+                  - generic [ref=e295]: Veto App
+                  - generic [ref=e297]: Ahmed AbouelEla
+            - link "Cart'd Ahmed AbouelEla" [ref=e299] [cursor=pointer]:
+              - /url: /store/apps/details?id=store.cartd.carted
+              - generic [ref=e300]:
+                - img [ref=e301]
+                - generic [ref=e302]:
+                  - generic [ref=e304]: Cart'd
+                  - generic [ref=e306]: Ahmed AbouelEla
+  - contentinfo [ref=e308]:
+    - generic [ref=e310]:
+      - generic [ref=e312]:
+        - text: Google Play
+        - link "Play Pass" [ref=e314] [cursor=pointer]:
+          - /url: /store/pass/getstarted
+          - paragraph [ref=e315]: Play Pass
+        - link "Play Points" [ref=e317] [cursor=pointer]:
+          - /url: /store/points/enroll
+          - paragraph [ref=e318]: Play Points
+        - link "Gift cards" [ref=e320] [cursor=pointer]:
+          - /url: https://play.google.com/about/giftcards
+          - paragraph [ref=e321]: Gift cards
+        - link "Redeem" [ref=e323] [cursor=pointer]:
+          - /url: /redeem
+          - paragraph [ref=e324]: Redeem
+        - link "Refund policy" [ref=e326] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/answer/134336
+          - paragraph [ref=e327]: Refund policy
+      - generic [ref=e329]:
+        - text: Kids & family
+        - link "Parent Guide" [ref=e331] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay?p=pff_parentguide
+          - paragraph [ref=e332]: Parent Guide
+        - link "Family sharing" [ref=e334] [cursor=pointer]:
+          - /url: https://support.google.com/googleplay/answer/7007852
+          - paragraph [ref=e335]: Family sharing
+    - generic [ref=e336]:
+      - link "Terms of Service" [ref=e338] [cursor=pointer]:
+        - /url: https://play.google.com/intl/en_eg/about/play-terms.html
+        - paragraph [ref=e339]: Terms of Service
+      - link "Privacy" [ref=e341] [cursor=pointer]:
+        - /url: https://policies.google.com/privacy
+        - paragraph [ref=e342]: Privacy
+      - link "About Google Play" [ref=e344] [cursor=pointer]:
+        - /url: https://support.google.com/googleplay/?p=about_play
+        - paragraph [ref=e345]: About Google Play
+      - link "Developers" [ref=e347] [cursor=pointer]:
+        - /url: http://developer.android.com/index.html
+        - paragraph [ref=e348]: Developers
+      - link "Google Store" [ref=e350] [cursor=pointer]:
+        - /url: https://store.google.com/?playredirect=true&utm_source=play&utm_medium=google_oo&utm_campaign=GS106288
+        - paragraph [ref=e351]: Google Store
+      - generic [ref=e352]: All prices include VAT.
+      - generic [ref=e355]: Egypt (English)
