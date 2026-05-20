@@ -112,6 +112,11 @@ export const categories: Category[] = [
             href: "https://play.google.com/store/apps/details?id=com.m3ak.m3ak&hl=ar",
             kind: "play",
           },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/ma/app/ma3ak-%D9%85%D8%B9%D8%A7%D9%83/id6758354892",
+            kind: "ios",
+          },
         ],
       },
       {
@@ -127,6 +132,11 @@ export const categories: Category[] = [
             label: "Google Play",
             href: "https://play.google.com/store/apps/details?id=com.filkhedma.customer",
             kind: "play",
+          },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/eg/app/filkhedma-home-services/id1473742608?l=ar",
+            kind: "ios",
           },
         ],
       },
@@ -144,6 +154,11 @@ export const categories: Category[] = [
             href: "https://play.google.com/store/apps/details?id=com.b8ak.b8akapp",
             kind: "play",
           },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/us/app/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D9%86%D8%B2%D9%84%D9%8A%D8%A9-b8ak-%D8%A8%D9%8A%D8%AA%D9%83/id1017413686?l=ar",
+            kind: "ios",
+          },
         ],
       },
       {
@@ -160,6 +175,11 @@ export const categories: Category[] = [
             href: "https://play.google.com/store/apps/details?id=com.cloudtech.fanniapp",
             kind: "play",
           },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/us/app/fanni-%D9%81%D9%86%D9%8A/id1136144566",
+            kind: "ios",
+          },
         ],
       },
       {
@@ -174,6 +194,11 @@ export const categories: Category[] = [
             label: "Google Play",
             href: "https://play.google.com/store/apps/details?id=com.tasktyapp.taskty",
             kind: "play",
+          },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/sa/app/taskty-cleaning-maintenance/id1486080094",
+            kind: "ios",
           },
         ],
       },
@@ -190,6 +215,11 @@ export const categories: Category[] = [
             href: "https://play.google.com/store/apps/details?id=com.maharah.maharahApp",
             kind: "play",
           },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/us/app/maharah-%D9%85%D9%87%D8%A7%D8%B1%D8%A9-maintenance/id1044631951",
+            kind: "ios",
+          },
         ],
       },
       {
@@ -204,6 +234,11 @@ export const categories: Category[] = [
             href: "https://play.google.com/store/apps/details?id=com.homerun.customer",
             kind: "play",
           },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/us/app/homerun-get-things-done/id1506390428",
+            kind: "ios",
+          },
         ],
       },
       {
@@ -217,6 +252,11 @@ export const categories: Category[] = [
             label: "Google Play",
             href: "https://play.google.com/store/apps/details?id=com.xapps.linkout",
             kind: "play",
+          },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/eg/app/linkout/id6444288176",
+            kind: "ios",
           },
         ],
       },
@@ -287,6 +327,11 @@ export const categories: Category[] = [
             label: "Google Play",
             href: "https://play.google.com/store/apps/details?id=com.eramgroupsa.home_service",
             kind: "play",
+          },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/eg/app/home-service-%D9%87%D9%88%D9%85-%D8%B3%D9%8A%D8%B1%D9%81%D8%B3/id6624303709",
+            kind: "ios",
           },
         ],
       },
@@ -361,6 +406,11 @@ export const categories: Category[] = [
             label: "Google Play",
             href: "https://play.google.com/store/apps/details?id=com.garo.ksa",
             kind: "play",
+          },
+          {
+            label: "App Store",
+            href: "https://apps.apple.com/eg/app/garo/id1533064818?l=ar",
+            kind: "ios",
           },
         ],
       },
